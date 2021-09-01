@@ -4,6 +4,7 @@ Esta es la historia de Javier Labrador
 Tiene 20 años y nació en Venezuela,
  viviendo en el todo el mundo
 
+Incluye los siguientes features
 Experimento 1
 
 Experimento 2
@@ -11,5 +12,7 @@ Experimento 2
 Master 1
 
 Master 2 
+
+Disponible para ya en tu mejor tienda de confianza 
 
 Hoy hablaremos de su historia
